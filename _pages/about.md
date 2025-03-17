@@ -2,4 +2,4 @@ Hi! This is Yulong Hu! I am now a third year Ph.D. candidate at The Hongkong Uni
 
 Before embarking on my doctoral journey, I obtained my bachelor degree in Electrical Engineering and Automation from the Hongshen Honor School at Chongqing University. I was also exchange undergraduate student in Electronic and Electrical Engineering at Sungkyunkwan University and Mathematics at The University of Hong Kong, respectively.
 
-You can find my CV here: [Yulong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here: [Yulong's Curriculum Vitae](../assets/CV-Hu Yulong.pdf)
