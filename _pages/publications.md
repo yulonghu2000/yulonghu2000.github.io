@@ -11,11 +11,11 @@ author_profile: true
 
 ## Journal Papers
 
-- **[J3]** **Yulong Hu**, Tingting Dong, Sen Li. **Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework.** *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
+- **[J1]** **Yulong Hu**, Tingting Dong, Sen Li. **Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework.** *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
 
 - **[J2]** Wei Lai, Zhi Wang, **Yulong Hu**, Minyou Chen, Hongjian Xia, Dan Luo, YunHai Wei, Bing Gao, Yigao Chen. **Evaluation of IGBT Module Remaining Lifetime in Wind Power Converters Considering Impacts of Failure Location.** *IEEE Transactions on Electron Devices*, 2021, 68(4): 1810-1818.
 
-- **[J1]** Jie Ma, Chengfeng Jia, Yaqing Shu, Kezhong Liu, Yu Zhang, and **Yulong Hu**. **Intent prediction of vessels in intersection waterway based on learning vessel motion patterns with early observations.** *Ocean Engineering*, 2021, 232: 109154.
+- **[J3]** Jie Ma, Chengfeng Jia, Yaqing Shu, Kezhong Liu, Yu Zhang, and **Yulong Hu**. **Intent prediction of vessels in intersection waterway based on learning vessel motion patterns with early observations.** *Ocean Engineering*, 2021, 232: 109154.
 
 ## Conference Papers
 
