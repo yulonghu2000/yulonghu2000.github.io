@@ -30,6 +30,6 @@ author_profile: true
 - Award of Excellence, The University of Hong Kong, *2019*  
 
 ## Service
-- Reviewer, IEEE Transaction on Intelligent Transportation System (4)  
-- Reviewer, Transportation Research Part E: Logistics and Review (2)  
-- Reviewer, IEEE Transaction on Artificial Intelligence (2)  
+- Reviewer, IEEE Transaction on Intelligent Transportation System 
+- Reviewer, Transportation Research Part E: Logistics and Review 
+- Reviewer, IEEE Transaction on Artificial Intelligence
