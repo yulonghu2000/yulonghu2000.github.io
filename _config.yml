@@ -13,7 +13,7 @@ title                    : "Yulong Hu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yulong Hu"
 description              : &description "Ph.D. Candidate"
-url                      : https://randy0717.github.io/yulonghu.github.io
+url                      : https://randy0717.github.io/yulonghu.github.io/about.md
 baseurl                  : ""
 repository               : "Randy0717/yulonghu.github.io"
 
