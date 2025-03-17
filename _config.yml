@@ -23,11 +23,11 @@ repository               : "Randy0717/yulonghu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Yulong Hu"
+  pronouns         : ""  
+  bio              : "Ph.D. Candidate at The Hong Kong University of Science and Technology"
   location         : "Hongkong, China"
-  employer         : "The Hongkong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "yulong.hu@connect.ust.hk" 
 
