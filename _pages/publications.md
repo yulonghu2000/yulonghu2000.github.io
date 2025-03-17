@@ -3,13 +3,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Working Papers
 
-## Working Paper
+- **Yulong Hu**, Siyuan Feng, Sen Li. **BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch.** *Under 2nd round review in IEEE Transactions on Intelligent Transportation Systems*.
 
-## Journal Paper
+- Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. **Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points.** *Under 1st round review in Transportation Research Part C: Emerging Technologies*.
 
-- **[J16]** Yitong Shang, Sen Li. **FedPT-V2G: security enhanced federated transformer learning for real-time v2g dispatch with non-iid data.** *Applied Energy*, 2024. [https://doi.org/10.1016/j.apenergy.2024.122626](https://doi.org/10.1016/j.apenergy.2024.122626)
-- **[J15]** Yitong Shang, Zekai Li, Sen Li, Ziyun Shao, Linni Jian. **An Information security solution for vehicle-to-grid scheduling by distributed edge computing and federated deep learning.** *IEEE Transactions on Industrial Applications*, 2024. [10.1109/TIA.2024.3351960](https://doi.org/10.1109/TIA.2024.3351960)
-- **[J14]** Zekai Li, Xiang Lei, Yitong Shang, Youwei Jia, Linni Jian. **A genuine V2V market mechanism aiming for maximum revenue of each EV owner based on non-cooperative game model.** *Journal of Cleaner Production*, 2023. [https://doi.org/10.1016/j.jclepro.2023.137586](https://doi.org/10.1016/j.jclepro.2023.137586)
-- **[J13]** Yanchong Zheng, Ziyun Shao, Yitong Shang, Linni Jian. **Modeling the temporal and economic feasibility of electric vehicles providing vehicle-to-grid services in the electricity market under different charging scenarios.** *Journal of Energy Storage*, 2023. [https://doi.org/10.1016/j.est.2023.107579](https://doi.org/10.1016/j.est.2023.107579)
+## Journal Papers
+
+- **Yulong Hu**, Tingting Dong, Sen Li. **Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework.** *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
+
+- Wei Lai, Zhi Wang, **Yulong Hu**, Minyou Chen, Hongjian Xia, Dan Luo, YunHai Wei, Bing Gao, Yigao Chen. **Evaluation of IGBT Module Remaining Lifetime in Wind Power Converters Considering Impacts of Failure Location.** *IEEE Transactions on Electron Devices*, 2021, 68(4): 1810-1818.
+
+- Jie Ma, Chengfeng Jia, Yaqing Shu, Kezhong Liu, Yu Zhang, and **Yulong Hu**. **Intent prediction of vessels in intersection waterway based on learning vessel motion patterns with early observations.** *Ocean Engineering*, 2021, 232: 109154.
+
+## Conference Papers
+
+- Yunhai Wei, **Yulong Hu**, Wei Lai, and Minyou Chen. **A Novel Calibration Method of Junction Temperature of IGBT for Electric Vehicle.** *The 34th International Electric Vehicle Symposium and Exhibition (EVS34)*.
+
+- Hongjian Xia, Yi Zhang, Huai Wang, Minyou Chen, Wei Lai, Dan Luo, and **Yulong Hu**. **Condition Monitoring of Capacitors in Modular Multilevel Converter with Wavelet Analysis.** *2021 IEEE Energy Conversion Congress and Exposition (ECCE)*.
 
