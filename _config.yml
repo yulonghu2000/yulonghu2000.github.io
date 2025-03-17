@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Hongkong-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Yulong Hu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yulong Hu"
 description              : &description "Ph.D. Candidate"
-url                      : https://randy0717.github.io/yulonghu.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://randy0717.github.io
+baseurl                  : /yulonghu.github.io
 repository               : "Randy0717/yulonghu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
