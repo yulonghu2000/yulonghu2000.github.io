@@ -33,3 +33,6 @@ author_profile: true
 - Reviewer, IEEE Transaction on Intelligent Transportation System 
 - Reviewer, Transportation Research Part E: Logistics and Review 
 - Reviewer, IEEE Transaction on Artificial Intelligence
+- Reviewer, The IEEE International Conference on Intelligent Transportation Systems
+- Reviewer, Internation Conference of Hong Kong Sociecty for Transportation Studies
+
