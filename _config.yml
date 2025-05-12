@@ -13,9 +13,12 @@ title                    : "Yulong Hu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yulong Hu"
 description              : &description "Ph.D. Candidate"
-url                      : https://yulonghu2000.github.io
-baseurl                  : /yulonghu2000.github.io
-repository               : "yulonghu2000/yulonghu2000.github.io"
+# 基本URL设置
+url: "https://yulonghu2000.github.io"  # 你的GitHub Pages主URL
+baseurl: ""  # 应该设为空字符串，除非你有特殊子目录需求
+
+# 仓库信息
+repository: "yulonghu2000/yulonghu2000.github.io"  # 用户名/仓库名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
