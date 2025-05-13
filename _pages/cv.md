@@ -30,9 +30,9 @@ author_profile: true
 - Award of Excellence, The University of Hong Kong, *2019*  
 
 ## Service
-- Reviewer, IEEE Transaction on Intelligent Transportation System 
-- Reviewer, Transportation Research Part E: Logistics and Review 
-- Reviewer, IEEE Transaction on Artificial Intelligence
+- Reviewer, IEEE Transaction on Intelligent Transportation System (T-ITS)
+- Reviewer, Transportation Research Part E: Logistics and Review (TRE)
+- Reviewer, IEEE Transaction on Artificial Intelligence (T-AI)
 - Reviewer, The IEEE International Conference on Intelligent Transportation Systems（ITSC)
 - Reviewer, Internation Conference of Hong Kong Sociecty for Transportation Studies (HKSTS)
 
