@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yulong Hu / Personal Homepage"
+title                    : "Yulong Hu / RL4SmartCity"
 title_separator          : "-"
 name                     : &name "Yulong Hu"
 description              : &description "Ph.D. Candidate"
