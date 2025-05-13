@@ -10,7 +10,7 @@ author_profile: true
   GPA: 3.87/4 (92.01/100)  
 
 ## Academic Experience
-- Visiting Ph.D. Student, King’s College London, Department of Computer Science, Hosted by Prof.Yali Du, *2024–2025*   
+- Visiting Ph.D. Student, King’s College London, Department of Informatics (Computer Science), Hosted by Prof.Yali Du, *2024–2025*   
 - Research Assistant, Aalborg University, Department of Energy, Hosted by Prof. Francesco Iannuzzo, *2021–2022*  
 - Exchange Undergraduate, Sungkyunkwan University, Department of Electronic and Electrical Engineering, *2021*  
   GPA: 92.4/100  
