@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints/Submitted Manuscripts 
+- **Yulong Hu**, Yali Du, Sen Li. Real-Time Coordination of Human Couriers and Drones for On-Demand Food-Delivery Platforms: A Multi-Stage Risk-Aware Multi-Agent Reinforcement Learning Framework. *Under review in Transportation Research Part C: Emerging Technologies*.
 
 - **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *Under 2nd round review in IEEE Transactions on Intelligent Transportation Systems*.
 
