@@ -18,6 +18,8 @@ author_profile: true
 **[J1]** Jie Ma, Chengfeng Jia, Yaqing Shu, Kezhong Liu, Yu Zhang, and **Yulong Hu**. Intent prediction of vessels in intersection waterway based on learning vessel motion patterns with early observations. *Ocean Engineering*, 2021, 232: 109154.
 
 ## Conference Papers
+**[C4]** **Yulong Hu**, Yali Du, Sen Li. Multi-Stage Multi-Agent Reinforcement Learning for On-Demand Food-Delivery Services with a Mixed Fleet of Human Couriers and Drones. *The IEEE International Conference on Intelligent Transportation Systems 2025 (ITSC2025)*.
+
 **[C3]** **Yulong Hu**, Sen Li. RG-CQL: A Reward-Guided Conservative Q-Learning Framework for the Coordination of Ride-Pooling and Public Transit Services. *13th Symposium of the European Association for Research in Transportation (hEART2025)*.
 
 **[C2]** Yunhai Wei, **Yulong Hu**, Wei Lai, and Minyou Chen. A Novel Calibration Method of Junction Temperature of IGBT for Electric Vehicle. *2021 The 34th International Electric Vehicle Symposium and Exhibition (EVS34)*.
