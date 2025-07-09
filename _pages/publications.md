@@ -6,11 +6,10 @@ author_profile: true
 ## Preprints/Submitted Manuscripts 
 - **Yulong Hu**, Yali Du, Sen Li. Real-Time Coordination of Human Couriers and Drones for On-Demand Food-Delivery Platforms: A Multi-Stage Risk-Aware Multi-Agent Reinforcement Learning Framework. *Under review in Transportation Research Part C: Emerging Technologies*.
 
-- **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *Under 2nd round review in IEEE Transactions on Intelligent Transportation Systems*.
-
 - Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Under 1st round review in Transportation Research Part C: Emerging Technologies*.
 
 ## Journal Papers
+**[J4]** **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *IEEE Transactions on Intelligent Transportation Systems*. Accepted After Minor Revision.
 
 **[J3]** **Yulong Hu**, Tingting Dong, Sen Li. Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
 
