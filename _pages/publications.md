@@ -9,7 +9,7 @@ author_profile: true
 - Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Under 1st round review in Transportation Research Part C: Emerging Technologies*.
 
 ## Journal Papers
-**[J4]** **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *IEEE Transactions on Intelligent Transportation Systems*. (Accepted After Minor Revision)
+**[J4]** **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *IEEE Transactions on Intelligent Transportation Systems*, 2025. (Accepted After Minor Revision)
 
 **[J3]** **Yulong Hu**, Tingting Dong, Sen Li. Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
 
