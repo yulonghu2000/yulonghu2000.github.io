@@ -21,7 +21,7 @@ author_profile: true
 ## Honors and Awards
 - Overseas Research Award, The Hong Kong University of Science and Technology, *2024*  
 - Hong Kong Ph.D. Fellowship Scheme Award, Research Grants Council of Hong Kong, *2022*  
-- Red Bird Award, The Hong Kong University of Science and Technology, *2022*  
+- Red Bird Award, The Hong Kong University of Science and Technology, *2022, 2025*  
 - Outstanding Graduate, Chongqing University, *2022*  
 - Global Link Research Award, Canada Mitacs,  *2021*  
 - Class A Scholarship, Chongqing University, *2019, 2020, 2021*  
