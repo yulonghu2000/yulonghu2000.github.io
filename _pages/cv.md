@@ -19,6 +19,7 @@ author_profile: true
   CGA: 4.3/4.3  
 
 ## Honors and Awards
+- IEEE ITSC Travel Grant, IEEE ITSS Conferences Committee, *2025*  
 - Overseas Research Award, The Hong Kong University of Science and Technology, *2024*  
 - Hong Kong Ph.D. Fellowship Scheme Award, Research Grants Council of Hong Kong, *2022*  
 - Red Bird Award, The Hong Kong University of Science and Technology, *2022, 2025*  
