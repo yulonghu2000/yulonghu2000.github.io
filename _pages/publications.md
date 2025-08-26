@@ -18,7 +18,7 @@ author_profile: true
 **[J1]** Jie Ma, Chengfeng Jia, Yaqing Shu, Kezhong Liu, Yu Zhang, and **Yulong Hu**. Intent prediction of vessels in intersection waterway based on learning vessel motion patterns with early observations. *Ocean Engineering*, 2021, 232: 109154.
 
 ## Conference Papers
-**[C4]** **Yulong Hu**, Sen Li. OIRL: Real-time Optimization of Peak Shaving and Energy Arbitrage in Industrial Microgrids with Offline Inverse Reinforcement Learning Framework. *2026 IEEE PES International Meeting (PESIM 2026)*
+**[C5]** **Yulong Hu**, Sen Li. OIRL: Real-time Optimization of Peak Shaving and Energy Arbitrage in Industrial Microgrids with Offline Inverse Reinforcement Learning Framework. *2026 IEEE PES International Meeting (PESIM 2026)*
 
 **[C4]** **Yulong Hu**, Yali Du, Sen Li. Multi-Stage Multi-Agent Reinforcement Learning for On-Demand Food-Delivery Services with a Mixed Fleet of Human Couriers and Drones. *The IEEE International Conference on Intelligent Transportation Systems 2025 (ITSC2025)*.
 
