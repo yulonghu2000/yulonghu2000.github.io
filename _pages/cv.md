@@ -10,7 +10,6 @@ author_profile: true
   GPA: 3.88/4 (92.01/100)  
 
 ## Academic Experience
-- Visiting Student, University College London, Department of Electronic and Electrical Engineering, *2024–2025* 
 - Visiting Student, King’s College London, Department of Informatics (Computer Science), *2024–2025*   
 - Research Assistant, Aalborg University, Department of Energy, Hosted by Prof. Francesco Iannuzzo, *2021–2022*  
 - Visiting Student, Sungkyunkwan University, Department of Electronic and Electrical Engineering, *2021*  
