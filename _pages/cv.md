@@ -18,7 +18,7 @@ author_profile: true
 - Visiting Student, The University of Hong Kong, Department of Mathematics, *2019*  
   CGA: 4.3/4.3  
 
-## Honors and Awards
+## Honors, Grants, and Awards
 - IEEE ITSC Travel Grant, IEEE ITSS Conferences Committee, *2025*  
 - Overseas Research Award, The Hong Kong University of Science and Technology, *2024*  
 - Hong Kong Ph.D. Fellowship Scheme Award, Research Grants Council of Hong Kong, *2022*  
