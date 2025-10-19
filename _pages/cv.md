@@ -7,7 +7,7 @@ author_profile: true
 ## Education
 - Ph.D. Candidate in Civil Engineering, The Hongkong University of Science and Technology, *2022–Present*   
 - B.E. in Electrical Engineering and Automation, Chongqing University, *2018–2022*  
-  GPA: 3.88/4 (92.01/100)  
+  GPA: 3.87/4 (92.01/100)  
 
 ## Academic Experience
 - Visiting Student, University College London, Department of Electrical and Electronic Engineering, Hosted by Prof. Boli Chen,*2024–2025*   
