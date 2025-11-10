@@ -5,9 +5,9 @@ author_profile: true
 ---
 ## Preprints/Submitted Manuscripts 
 
-- Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Under 2nd round review for Transportation Research Part C: Emerging Technologies*.
-
 ## Journal Papers
+**[J6]**  Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Transportation Research Part C: Emerging Technologies*, 2025.
+
 **[J5]** **Yulong Hu**, Yali Du, Sen Li. Real-Time Coordination of Human Couriers and Drones for On-Demand Food-Delivery Platforms: A Multi-Stage Risk-Aware Multi-Agent Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 181:105381, 2025.
 
 **[J4]** **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *IEEE Transactions on Intelligent Transportation Systems*, Early Access, 2025.
