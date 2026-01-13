@@ -6,7 +6,7 @@ author_profile: true
 ## Preprints/Submitted Manuscripts 
 
 ## Journal Papers
-**[J7]** **Yulong Hu**, Sen Li. Offline Inverse Reinforcement Learning for Joint Optimization of Energy Costs and Demand Charge in Industrial PV-Battery Load Systems. *Applied Energy*, 2026.
+**[J7]** **Yulong Hu**, Sen Li. Offline Inverse Reinforcement Learning for Joint Optimization of Energy Costs and Demand Charge in Industrial PV-Battery Load Systems. *Applied Energy*, 2026 (Accept).
 
 **[J6]**  Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Transportation Research Part C: Emerging Technologies*, 2025.
 
