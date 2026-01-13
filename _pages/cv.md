@@ -33,6 +33,7 @@ author_profile: true
 
 ## Service
 - Reviewer, IEEE Transaction on Intelligent Transportation System (T-ITS)
+- Reviewer, Transportation Research Part C: Emerging Technologies (TRC)
 - Reviewer, Transportation Research Part E: Logistics and Review (TRE)
 - Reviewer, IEEE Transaction on Artificial Intelligence (T-AI)
 - Reviewer, The IEEE International Conference on Intelligent Transportation Systems（ITSC)
