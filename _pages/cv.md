@@ -5,17 +5,17 @@ author_profile: true
 ---
 
 ## Education
-- Ph.D. Candidate in Civil Engineering, The Hongkong University of Science and Technology, *2022–Present*   
-- B.E. in Electrical Engineering and Automation, Chongqing University, *2018–2022*  
+- Ph.D. Candidate in Civil Engineering, The Hongkong University of Science and Technology, 2022–Present   
+- B.E. in Electrical Engineering and Automation, Chongqing University, 2018–2022  
   GPA: 3.87/4 (92.01/100)  
 
-## Academic Experience
-- Visiting Student, University College London, Department of Electrical and Electronic Engineering, Hosted by Prof. Boli Chen,*2024–2025*   
-- Visiting Student, King’s College London, Department of Informatics (Computer Science), Hosted by Prof. Yali Du,*2024–2025*   
-- Research Assistant, Aalborg University, Department of Energy, Hosted by Prof. Francesco Iannuzzo, *2021–2022*  
-- Visiting Student, Sungkyunkwan University, Department of Electronic and Electrical Engineering, *2021*  
+## Academic Experience 
+- Visiting Student, University College London, Department of Electrical and Electronic Engineering, Hosted by Prof. Boli Chen, 2024–2025   
+- Visiting Student, King’s College London, Department of Informatics (Computer Science), Hosted by Prof. Yali Du,2024–2025   
+- Research Assistant, Aalborg University, Department of Energy, Hosted by Prof. Francesco Iannuzzo, 2021–2022  
+- Visiting Student, Sungkyunkwan University, Department of Electronic and Electrical Engineering, 2021  
   GPA: 92.4/100  
-- Visiting Student, The University of Hong Kong, Department of Mathematics, *2019*  
+- Visiting Student, The University of Hong Kong, Department of Mathematics, 2019  
   CGA: 4.3/4.3  
 
 ## Honors, Grants, and Awards
