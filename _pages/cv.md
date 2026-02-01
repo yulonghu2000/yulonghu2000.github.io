@@ -11,7 +11,7 @@ author_profile: true
 
 ## Academic Experience 
 - Visiting Student, University College London, Department of Electrical and Electronic Engineering, Hosted by Prof. Boli Chen, 2024–2025   
-- Visiting Student, King’s College London, Department of Informatics (Computer Science), Hosted by Prof. Yali Du,2024–2025   
+- Visiting Student, King’s College London, Department of Informatics (Computer Science), Hosted by Prof. Yali Du, 2024–2025   
 - Research Assistant, Aalborg University, Department of Energy, Hosted by Prof. Francesco Iannuzzo, 2021–2022  
 - Visiting Student, Sungkyunkwan University, Department of Electronic and Electrical Engineering, 2021  
   GPA: 92.4/100  
