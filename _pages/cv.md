@@ -10,6 +10,7 @@ author_profile: true
   GPA: 3.87/4 (92.01/100)  
 
 ## Academic Experience 
+- Visiting Student, Swiss Federal Institute of Technology Lausanne (EPFL), Department of Robotics Control and Intelligent System, Hosted by Prof. Nikolas Geroliminis, 2026  
 - Visiting Student, University College London, Department of Electrical and Electronic Engineering, Hosted by Prof. Boli Chen, 2024–2025   
 - Visiting Student, King’s College London, Department of Informatics (Computer Science), Hosted by Prof. Yali Du, 2024–2025   
 - Research Assistant, Aalborg University, Department of Energy, Hosted by Prof. Francesco Iannuzzo, 2021–2022  
