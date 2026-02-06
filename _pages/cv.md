@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Education
-- Ph.D. Candidate in Civil Engineering, The Hongkong University of Science and Technology, 2022–Present   
+- Ph.D. Candidate in Civil Engineering, The Hong Kong University of Science and Technology, 2022–Present   
 - B.E. in Electrical Engineering and Automation, Chongqing University, 2018–2022  
   GPA: 3.87/4 (92.01/100)  
 
