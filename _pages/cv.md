@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## Education
-- Ph.D. in System Engineering, The Hong Kong University of Science and Technology, 2022–Present   
-- B.E. in Electrical Engineering and Automation, Chongqing University, 2018–2022  
+- Ph.D. in System Engineering, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology, 2022–Present
+  Hong Kong PhD Fellowship Scheme (HKPFS) Awardee 
+- B.E. in Electrical Engineering and Automation, Department of Electrical Engineering, Chongqing University, 2018–2022  
   GPA: 3.87/4 (92.01/100)  
 
 ## Academic Experience 
