@@ -9,15 +9,17 @@ author_profile: true
 **[W2]** Zijian Zhao, Yulong Hu, Sen Li. RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System. Submitted to KDD 2027 benchmark track.
 
 ## Journal Papers
-**[J7]** **Yulong Hu**, Sen Li. Offline Inverse Reinforcement Learning for Joint Optimization of Energy Costs and Demand Charge in Industrial PV-Battery Load Systems. *Applied Energy*, 408:127416, 2026.
+**[J8]** **Yulong Hu**, Sen Li. Offline Inverse Reinforcement Learning for Joint Optimization of Energy Costs and Demand Charge in Industrial PV-Battery Load Systems. *Applied Energy*, 408:127416, 2026.
 
-**[J6]**  Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Transportation Research Part C: Emerging Technologies*, 183:105452, 2025.
+**[J7]**  Tingting Dong, **Yulong Hu**, Zeming Wang, Sen Li. Integrated Optimization of Ride-Pooling and Shared Micro-mobility Services with Meeting Points. *Transportation Research Part C: Emerging Technologies*, 183:105452, 2025.
 
-**[J5]** **Yulong Hu**, Yali Du, Sen Li. Real-Time Coordination of Human Couriers and Drones for On-Demand Food-Delivery Platforms: A Multi-Stage Risk-Aware Multi-Agent Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 181:105381, 2025.
+**[J6]** **Yulong Hu**, Yali Du, Sen Li. Real-Time Coordination of Human Couriers and Drones for On-Demand Food-Delivery Platforms: A Multi-Stage Risk-Aware Multi-Agent Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 181:105381, 2025.
 
-**[J4]** **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *IEEE Transactions on Intelligent Transportation Systems*, Early Access, 2025.
+**[J5]** **Yulong Hu**, Siyuan Feng, Sen Li. BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch. *IEEE Transactions on Intelligent Transportation Systems*, Early Access, 2025.
 
-**[J3]** **Yulong Hu**, Tingting Dong, Sen Li. Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
+**[J4]** **Yulong Hu**, Tingting Dong, Sen Li. Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework. *Transportation Research Part C: Emerging Technologies*, 174:105051, 2025.
+
+**[J3]** Yunhai Wei, Minyou Chen, Wei Lai, Jinbao Zhang, **Yulong Hu**. A Review of Active Thermal Management Methods Based on Smoothing Control of IGBT Junction Temperature Fluctuations. Transactions of China Electrotechnical Society, 37(6): 1415-1430.
 
 **[J2]** Wei Lai, Zhi Wang, **Yulong Hu**, Minyou Chen, Hongjian Xia, Dan Luo, YunHai Wei, Bing Gao, Yigao Chen. Evaluation of IGBT Module Remaining Lifetime in Wind Power Converters Considering Impacts of Failure Location. *IEEE Transactions on Electron Devices*, 2021, 68(4): 1810-1818.
 
