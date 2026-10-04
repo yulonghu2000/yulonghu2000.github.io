@@ -4,8 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints/Submitted Manuscripts 
-[W1] Yulong Hu, Meng Xu, Sen Li, Nikolas Geroliminis. Synergizing Drone Delivery Order Pooling with Road Network Monitoring through Monitoring Task Orderization. Submitted to Transportation Science, 2026
-[w2] Zijian Zhao, Yulong Hu, Sen Li. RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System. Submitted to KDD 2027 benchmark track.
+**[W1]** Yulong Hu, Meng Xu, Sen Li, Nikolas Geroliminis. Synergizing Drone Delivery Order Pooling with Road Network Monitoring through Monitoring Task Orderization. Submitted to Transportation Science, 2026
+
+**[w2]** Zijian Zhao, Yulong Hu, Sen Li. RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System. Submitted to KDD 2027 benchmark track.
 
 ## Journal Papers
 **[J7]** **Yulong Hu**, Sen Li. Offline Inverse Reinforcement Learning for Joint Optimization of Energy Costs and Demand Charge in Industrial PV-Battery Load Systems. *Applied Energy*, 408:127416, 2026.
