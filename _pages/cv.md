@@ -34,9 +34,12 @@ author_profile: true
 - Award of Excellence, The University of Hong Kong, *2019*  
 
 ## Service
+
 - Reviewer, IEEE Transaction on Intelligent Transportation System (T-ITS)
+- Reviewer, Applied Energy
 - Reviewer, Transportation Research Part C: Emerging Technologies (TRC)
 - Reviewer, Transportation Research Part E: Logistics and Review (TRE)
+- Reviewer, Journal of Transport Geograph
 - Reviewer, IEEE Transaction on Artificial Intelligence (T-AI)
 - Reviewer, The IEEE International Conference on Intelligent Transportation Systems（ITSC)
 - Reviewer, Transportation Research Board (TRB) Annual Meeting
